@@ -43,3 +43,12 @@
     background-color: transparent;
 }
 
+.button {
+    border: solid;
+    border-color: rgb(250, 200, 62);
+    border-radius: 15%;
+    border-style: inset;
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+}
+
